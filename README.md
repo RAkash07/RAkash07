@@ -12,7 +12,7 @@ I am Akash, a Software Developer looking for an jobs
 
 - 💬 About Mine ...
 
-  My Main Tech is Python,SQL,AI and RAG,My Favorite Tools are VScode and GoogleCollab.
+  My Main Tech is Python, SQL, AI and RAG, My Favorite Tools are VScode and GoogleCollab.
                   
 - 📫 How to reach me:
 
