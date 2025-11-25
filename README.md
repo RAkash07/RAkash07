@@ -21,7 +21,6 @@ I am Akash, a Software Developer looking for an jobs
 -  EMAIL: akashsiddarth07@gmail.com
 
 - ⚡ Fun fact:
-- I dont like Curd Rice
-- I have Dog and Cat
-  Hobbies: Animae,Sports and Coding 
+- I dont like Cats
+- Hobbies: Animae,Sports and Coding 
 -->
