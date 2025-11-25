@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Akash, a Software Developer looking for an jobs
+I am Akash, a Software Developer 
 
 - 🔭 I’m currently working on Machine Learning project (ChatGpt model and AI News Chatbot)
 
