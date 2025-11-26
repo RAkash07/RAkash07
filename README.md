@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Akash, a Software Developer 
+I am Akash, A Software Developer 
 
 - 🔭 I’m currently working on Machine Learning project (ChatGpt model and AI News Chatbot)
 
@@ -12,7 +12,7 @@ I am Akash, a Software Developer
 
 - 💬 About Mine ...
 
-  My Main Tech is PYTHON, SQL, AI and RAG, My Favorite Tools are VSCODE , GOOGLECOLLAB, CURSOR  AND LOVABLE TOOL
+  My Main Tech is PYTHON, SQL, AI and RAG, My Favorite Tools are VSCODE , GOOGLECOLLAB, CURSOR  AND LOVABLE TOOLS
                   
 - 📫 How to reach me:
 
